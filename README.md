@@ -1,1 +1,1 @@
-# disaster-response-pipelines-udacity
+# disaster-response-pipeline-udacity
